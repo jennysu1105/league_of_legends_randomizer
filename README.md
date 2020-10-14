@@ -1,6 +1,8 @@
 # league_of_legends_randomizer
 Date: October 2019 - January 2020
 
+Run Progam using Main.java.
+
 This is a small program I made to completely choose champions, items and runes randomly. 
 This program is only updated up to Sett, so champions after that and items are not included in this.
 
